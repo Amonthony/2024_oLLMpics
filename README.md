@@ -15,7 +15,7 @@ Pour chaque tâche, prêtez une attention particulière à savoir si l'utilisati
 
 ## Prochaines étapes
 
-Clonez ce dépôt GitHub sur votre ordinateur local. Vous pouvez utiliser vos notes de cours ou un LMM pour vous aider dans le processus de clonage Git. Vous y trouverez des instructions spécifiques aux prochaines étapes dans le dossier correspondant à votre équipe.
+Choissisez un membre de votre équipe qui clonera ce dépôt GitHub sur leur ordinateur. Vous pouvez utiliser vos notes de cours ou un LMM pour vous aider dans le processus de clonage Git. Vous y trouverez des instructions spécifiques aux prochaines étapes dans le dossier correspondant à votre équipe.
 
 
 Bonne chance, et que la meilleure équipe gagne !
@@ -36,6 +36,6 @@ For each task, pay careful attention to whether the use of AI is permitted and e
 
 ## Next Steps
 
-Clone this GitHub repository to your local computer. You may use your class notes or an LMM to help you with the Git cloning process. You will find specific instructions for your next steps in the folder corresponding to your team.
+Choose one memeber of your team who will clone this GitHub repository to their local computer. You may use your class notes or an LMM to help you with the Git cloning process. You will find specific instructions for your next steps in the folder corresponding to your team.
 
 Good luck, and may the best team win!
