@@ -4,13 +4,11 @@
 
 Bienvenue aux **oLLMpiques**, où vos compétences en bioinformatique seront mises à l'épreuve à travers une série de défis conçus pour renforcer vos connaissances précédentes tout en vous familiarisant avec la puissance des outils d'IA comme **Microsoft Copilot ou ChatGPT**.
 
-Dans ce défi, vous serez divisés en deux équipes — **Équipe 1** et **Équipe 2** — chacune avec un ensemble de tâches. Certaines tâches permettront l'utilisation de l'IA, comme Microsoft Copilot ou ChatGPT, pour aider à résoudre des problèmes de codage et d'analyse, tandis que d'autres tâches nécessiteront de vous baser sur vos notes, Google, ou l'aide de votre professeur.
+Dans ce défi, vous serez divisés en deux équipes — **Équipe 1** et **Équipe 2** —  ensemble vous devrez completer une liste de tâches basées sur les cours précédentes.
 
-Vous pouvez choisir **deux tâches** à réaliser avec l'aide d'un LLM (Large Language Model) tel que Microsoft Copilot ou ChatGPT et **deux tâches** à accomplir en vous appuyant sur des méthodes traditionnelles, telles que Google, vos notes de cours ou l'assistance de vos professeurs/assistants.
+Parmi vos quatre tâches, vous pouvez choisir **deux tâches** à réaliser avec l'aide d'un LLM tel que Microsoft Copilot ou ChatGPT et **deux tâches** à accomplir en vous appuyant sur des méthodes traditionnelles, telles que Google, vos notes de cours ou l'assistance de vos professeurs/assistants.
 
 La première équipe à terminer toutes ses tâches avec succès gagne les oLLMpiques.
-
-Pour chaque tâche, prêtez une attention particulière à la manière dont vous allez l'aborder et assurez-vous que votre équipe termine toutes les étapes dans le bon ordre.
 
 ---
 
@@ -18,7 +16,7 @@ Pour chaque tâche, prêtez une attention particulière à la manière dont vous
 
 Votre première tâche est de cloner ce dépôt GitHub sur l'ordinateur d'un membre de l'équipe.
 
-- **Livrable** : Clonez le dépôt et préparez-vous à accéder aux fichiers des tâches suivantes.
+- **Livrable** : Clonez le dépôt et préparez-vous à accéder aux fichiers des tâches suivantes (Fichiers_Files).
 
 ---
 
@@ -33,12 +31,12 @@ Vous avez reçu le résumé d’un article scientifique intitulé :
 
 L'article se trouve dans le dossier **Files_Fichier**.
 
-Votre objectif est de réviser ce résumé de 500 mots pour qu'il contienne **exactement 250 mots** afin de répondre aux critères de soumission.
+Votre objectif est de réviser le résumé de 500 mots (1_Abstract_500.md) pour qu'il contienne **exactement 250 mots** afin de répondre aux critères de soumission.
 
 - **Livrable** : Soumettez le résumé révisé de 250 mots avec le **nombre de mots imprimé en bas**.
 - Vous pouvez vérifier le nombre de mots en utilisant **bash**, **Python**, ou d'autres moyens non computationnels (par exemple, un comptage manuel).
 - **Conseil** : Il sera plus facile de lire le résumé sur GitHub avec votre navigateur qu'avec nano en ligne de commande.
-- **Soumission** : Poussez le résumé révisé dans votre dossier **Results** dans le répertoire de votre équipe avec l'aide de `git push`.
+- **Soumission** : Poussez le résumé révisé dans votre dossier **Results** dans le répertoire de votre équipe avec l'aide de `git push`. Assurez vous de bien nommer le fichier, pour que ce soit évident pour tes autre collaborateurs(trices).
 
 ---
 
@@ -70,14 +68,14 @@ Vous avez reçu les données transcriptomiques de 138 plantes, certaines mâles 
 
 ## Tâche 4 : Concevoir un protocole de sexage à haut débit
 
-En utilisant les données transcriptomiques que vous avez analysées, proposez comment vous concevriez une **méthode à haut débit** pour déterminer le sexe des plantes de cannabis en utilisant les deux marqueurs **REM16** et **FT1**.
+En utilisant les données transcriptomiques que vous avez analysées, proposez comment vous concevriez une **méthode à haut débit** pour déterminer le sexe des plantes de cannabis en utilisant un, ou les deux marqueurs **REM16** et **FT1**.
 
 Dans votre conception, tenez compte de :
 - Le flux de travail pour collecter et traiter les échantillons.
 - Les étapes nécessaires pour identifier le sexe de la plante en utilisant ces marqueurs.
 - Comment vous adapteriez cette méthode à un environnement à haut débit.
 
-- **Livrable** : Soumettez une proposition de protocole (maximum 250 mots).
+- **Livrable** : Soumettez une proposition de protocole (maximum 250 mots; format .txt or .md).
 - **Soumission** : Poussez votre proposition dans votre dossier **Results** dans le répertoire de votre équipe avec l'aide de `git push`.
 
 ---
@@ -86,13 +84,9 @@ Dans votre conception, tenez compte de :
 
 Welcome to the **oLLMpics**, where your bioinformatics skills will be tested in a series of challenges designed to reinforce your previous knowledge while introducing you to the power of AI tools like **Microsoft Copilot or ChatGPT**.
 
-In this challenge, you will be divided into two teams—**Team 1** and **Team 2**—each with a set of tasks. Some tasks will allow the use of AI, such as Microsoft Copilot or ChatGPT, to assist in solving coding and analysis problems, while other tasks will require you to rely on your notes, Google, or support from your professor.
-
-You may choose **two tasks** to complete with the help of an LLM (Large Language Model), such as Microsoft Copilot or ChatGPT, and **two tasks** to complete using traditional methods, such as Google, class notes, or assistance from professors/TAs.
+In this challenge, you will be divided into two teams—**Team 1** and **Team 2**—each with a set of four tasks. You may choose **two tasks** to complete with the help of an LLM (Large Language Model), such as Microsoft Copilot or ChatGPT, and **two tasks** to complete using traditional methods, such as Google, class notes, or assistance from professors/TAs.
 
 The **first team to successfully complete all their tasks** wins the oLLMpics.
-
-For each task, carefully evaluate how you will approach it and ensure that your team completes all steps in the correct order.
 
 ---
 
@@ -100,7 +94,7 @@ For each task, carefully evaluate how you will approach it and ensure that your 
 
 Your first task is to clone this GitHub repository to one team member’s computer.
 
-- **Deliverable**: Clone the repository and prepare to access the files for the following tasks.
+- **Deliverable**: Clone the repository and access the `Fichier_Files` for the subsequent tasks.
 
 ---
 
@@ -120,14 +114,38 @@ Your goal is to revise the 500-word abstract to be **exactly 250 words** to meet
 - **Deliverable**: Submit the revised 250-word abstract with the **word count printed at the bottom**.
 - You may check the word count using **bash**, **Python**, or other non-computational means (e.g., manual count).
 - **Tip**: *It will be easier to read the abstract on GitHub with your browser than using nano on the command line.*
-- **Submission**: Push the revised abstract to your **Results** folder in your team directory using `git push`.
+- **Submission**: Push the revised abstract to your **Results** folder in your team's directory using `git push`.
 
 ---
-
 ## Task 3: Gene Expression Analysis (REM16 and FT1)
 
 **Background**:  
 You are a team of computational biologists investigating the genetic control of sex in *Cannabis sativa*. Your team has been tasked with identifying genetic markers that could be used in an assay to sex plants. Based on a review of the literature, you and your supervisor have hypothesized that two genes, **REM16** (*LOC115699937*) and **FT1** (*LOC115696989*), could be strong candidates for this task. 
 
 You have been provided with transcriptome data from 138 plants, some male and some female. This data is available in the **2_Data_RNASeq_Cannabis_Sex.csv** file located in the GitHub repository you cloned. 
+
+
+
+- **Deliverables**: 
+   1. An R or Python script that performs the analysis.
+   2. Three figures:
+      - A box plot for **REM16** expression grouped by sex.
+      - A box plot for **FT1** expression grouped by sex.
+      - A combined plot for **REM16** and **FT1**.
+- **Submission**: Push the script and figures to your **Results** folder in your team directory using `git push`.
+
+--
+
+## Task 4: Design a High-Throughput Sexing Protocol
+
+Using the transcriptomic data you have analyzed, propose how you would design a **high-throughput method** to determine the sex of cannabis plants using the two markers **REM16** and **FT1**.
+
+In your design, consider:
+- The workflow for collecting and processing samples.
+- The steps needed to identify the sex of the plant using these markers.
+- How you would scale this method to a high-throughput setting.
+
+- **Deliverable**: Submit a written protocol proposal (maximum 250 words; .txt or .md format).
+- **Submission**: Push your proposal to your **Results** folder in your team directory using `git push`.
+
 
