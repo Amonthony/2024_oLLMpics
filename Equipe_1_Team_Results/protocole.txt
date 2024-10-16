@@ -8,11 +8,11 @@ o	Quantifiez et évaluez la qualité de l’ARN extrait à l’aide d’un spect
 3.	Synthèse de l’ADNc :
 o	Convertissez l’ARN en ADN complémentaire (ADNc) en utilisant une transcriptase inverse et des amorces spécifiques.
 4.	PCR en Temps Réel (qPCR) :
-o	Concevez des amorces spécifiques pour les marqueurs REM16 et FT1.
+o	Concevez des amorces spécifiques pour le marqueur REM16.
 o	Préparez des réactions de qPCR en utilisant l’ADNc comme matrice.
-o	Effectuez la qPCR et analysez les données pour détecter l’expression des marqueurs REM16 et FT1.
+o	Effectuez la qPCR et analysez les données pour détecter l’expression du marqueur REM16.
 5.	Analyse des Résultats obtenus :
-o	Comparez les niveaux d’expression des marqueurs REM16 et FT1 entre les échantillons mâles et femelles.
+o	Comparez les niveaux d’expression du marqueur REM16  entre les échantillons mâles et femelles.
 o	Déterminez le sexe des plantes en fonction des profils d’expression des marqueurs.
 6.	Automatisation :
 o	Utilisez des robots de pipetage pour l’extraction de l’ARN et la préparation des réactions de pcr.
