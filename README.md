@@ -1,4 +1,4 @@
-# oLLMpics : Défi bioinformatique en équipe
+# Les oLLMpiques : Défi bioinformatique en équipe
 
 *(Scroll down for the English version / Faites défiler vers le bas pour la version anglaise)*
 
